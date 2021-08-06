@@ -1,0 +1,176 @@
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\WebApplication1.dll.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\WebApplication1.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\WebApplication1.pdb
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csc.exe
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csc.exe.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csc.rsp
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csi.exe
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csi.exe.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csi.rsp
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Console.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Http.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\vbc.rsp
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Helpers.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Mvc.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Optimization.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Razor.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\WebGrease.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Helpers.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Mvc.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Optimization.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Razor.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Cors.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\WebApplication1.dll.config
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\WebApplication1.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\WebApplication1.pdb
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csc.exe
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csc.exe.config
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csc.rsp
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csi.exe
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csi.exe.config
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csi.rsp
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.AppContext.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Console.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Http.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.ValueTuple.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe.config
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\vbc.rsp
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Cors.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Helpers.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Mvc.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Optimization.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Razor.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\WebGrease.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Helpers.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Mvc.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Optimization.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Razor.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Abijan Important\Final\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
