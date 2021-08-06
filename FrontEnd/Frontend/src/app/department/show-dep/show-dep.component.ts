@@ -14,6 +14,7 @@ export class ShowDepComponent implements OnInit {
 
   DepartmentList:any=[];
 
+  ModalTitle:string | undefined;
   ActivateAddEditDepComp:boolean=false;
   dep:any;
 
@@ -28,11 +29,33 @@ export class ShowDepComponent implements OnInit {
       DepartmentId:0,
       DepartmentName:""
     }
-
+    this.ModalTitle="AddDepartment";
     this.ActivateAddEditDepComp=true;
 
 
   }
+  
+  deleteClick(item)
+  
+  {
+    
+    if(confirm('Are you sure??')){
+      this.service.deleteDepartment(item.DepartmentId).subscribe(data=>{
+        alert(data.toString());
+        this.refreshDipList();
+      })
+    }
+  }
+
+// editClick(item){
+//   this.dep=item;
+//   this.ModalTitle="Edit Department";
+//   this.ActivateAddEditDepComp=true
+
+
+// }
+
+
   closeClick(){
     this.ActivateAddEditDepComp=false;
     this.refreshDipList();
