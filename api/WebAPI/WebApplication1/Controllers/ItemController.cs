@@ -17,7 +17,7 @@ namespace WebApplication1.Controllers
         public HttpResponseMessage Get()
         {
             string query = @"
-                    select ItemNo,unitPrice,Quantity,Total
+                    select ItemNo,UnitPrice,Quantity,Total
 
                    from dbo.Item
                     ";
@@ -41,9 +41,9 @@ namespace WebApplication1.Controllers
             try
             {
                 string query = @"
-                    insert into dbo.Employee values
+                    insert into dbo.Item values
                     (
-                    '" + ite.Unitprice + @"'
+                    '" + ite.UnitPrice + @"'
                     ,'" + ite.Quantity + @"'
                     ,'" + ite.Total + @"'
              
@@ -75,11 +75,10 @@ namespace WebApplication1.Controllers
             try
             {
                 string query = @"
-                    update dbo.Item set 
-                    '" + ite.Unitprice + @"'
-                    ,'" + ite.Quantity + @"'
-                    ,'" + ite.Total + @"'
-                    where EmployeeId=" + ite.ItemNo + @"
+                  UnitPrice='" + ite.UnitPrice + @"'
+                    ,Quantity='" + ite.Quantity + @"'
+                    ,Total='" + ite.Total + @"'
+                    where ItemNo=" + ite.ItemNo + @"
                     ";
 
                 DataTable table = new DataTable();

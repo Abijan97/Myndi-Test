@@ -9,7 +9,7 @@ namespace WebApplication1.Models
     {
 
         public int ItemNo { get; set; }
-        public int Unitprice { get; set; }
+        public int UnitPrice { get; set; }
         public int Quantity { get; set; }
         public int Total { get; set; }
     }

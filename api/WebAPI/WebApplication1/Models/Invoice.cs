@@ -10,7 +10,7 @@ namespace WebApplication1.Models
         public int InvoiceNo { get; set; }
         public string InvoiceDate { get; set; }
         public string IssuedPersonName { get; set; }
-        public string TotalAmount { get; set; }
+        public int TotalAmount { get; set; }
      
 
     }

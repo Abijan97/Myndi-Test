@@ -54,4 +54,47 @@ readonly PhotoUrl = "http://localhost:53535/Photos/";
     return this.http.get<any[]>(this.APIUrl+'/Employee/GetAllDepartmentNames');
   }
 
+  //
+  getIteList():Observable<any[]>{
+    return this.http.get<any>(this.APIUrl+'/item');
+  }
+  
+
+ 
+  addItem(val:any){
+    return this.http.post(this.APIUrl+'/Item',val);
+  }
+
+  updateItem(val:any){
+    return this.http.put(this.APIUrl+'/Item',val);
+  }
+
+  deleteItem(val:any){
+    return this.http.delete(this.APIUrl+'/Item/'+val);
+  }
+
+  //
+
+  
+  getInvoice():Observable<any[]>{
+    return this.http.get<any>(this.APIUrl+'/Invoice');
+  }
+
+  addInvoice(val:any){
+    return this.http.post(this.APIUrl+'/Invoice',val);
+  }
+
+  updateInvoice(val:any){
+    return this.http.put(this.APIUrl+'/Invoice',val);
+  }
+
+  deleteInvoice(val:any){
+    return this.http.delete(this.APIUrl+'/Invoice/'+val);
+  }
+
+
+
+
 }
+
+

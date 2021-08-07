@@ -43,7 +43,7 @@ namespace WebApplication1.Controllers
             try
             {
                 string query = @"
-                    insert into dbo.Employee values
+                    insert into dbo.Invoice values
                     (
                     '" + inv.InvoiceDate + @"'
                     ,'" + inv.IssuedPersonName + @"'
@@ -79,10 +79,13 @@ namespace WebApplication1.Controllers
                 string query = @"
                     update dbo.Invoice set 
                    
-                    ,InvoiceDate='" + inv.InvoiceDate + @"'
-                    ,IssuedPersonName='" + inv.IssuedPersonName + @"'
-                    ,TotalAmount='" + inv.TotalAmount + @"'
-                 
+                    InvoiceDate='" + inv.InvoiceDate + @"'
+                    IssuedPersonName='" + inv.IssuedPersonName + @"'
+                    TotalAmount='" + inv.TotalAmount + @"'
+                    where InvoiceNo=" +inv.InvoiceNo+ @"
+
+
+                  
                     ";
 
                 DataTable table = new DataTable();
